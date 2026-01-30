@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Singh</h1>
 <h3 align="center">Building apps with Flutter and Kotlin | Exploring AI & DSA</h3>
 
-- 🔭 I’m currently working on **an offline music streaming app with kotlin and a stock market simulator with flutter.**
+- 🔭 I’m currently working on **a series of apps built using kotlin**
 
 - 🌱 I’m currently learning **Jetpack Compose with Kotlin and Machine learning.**
 
